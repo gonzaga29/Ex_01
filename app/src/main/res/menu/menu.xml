@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ligar"
+        android:title="@string/ligar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/sms"
+        android:title="@string/sms"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mapa"
+        android:title="@string/mapa"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/site"
+        android:title="@string/site"
+        app:showAsAction="ifRoom" />
+
+</menu>

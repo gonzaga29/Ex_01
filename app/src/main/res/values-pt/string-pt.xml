@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu_App</string>
+    <string name="Formulario">Formulário</string>
+    <string name="Nome">Nome</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Endereço">Endereço</string>
+    <string name="Foto">Foto</string>
+    <string name="Nota">Nota</string>
+    <string name="Site_Pessoal">Site Pessoal</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="ex01">Meu_App</string>
+    <string name="ligar">Ligar</string>
+    <string name="sms">Mandar SMS</string>
+    <string name="mapa">Ver Localização no mapa</string>
+    <string name="site">Acessar site</string>
+    <string name="menu_titulo">Escolha a opção!!!</string>
+    <string name="formulario">Formulário</string>
+    <string name="type_mesage">Digite Mensagem</string>
+    <string name="enviar_sms">Enviar</string>
+</resources>

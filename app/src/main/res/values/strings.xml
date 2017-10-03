@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My_App</string>
+    <string name="Formulario">Form</string>
+    <string name="Nome">Name</string>
+    <string name="Telefone">Phone Number</string>
+    <string name="Endereço">Address</string>
+    <string name="Foto">Photo</string>
+    <string name="Nota">Grade</string>
+    <string name="Site_Pessoal">Personal Site</string>
+    <string name="cadastrar">Sign Up</string>
+    <string name="ex01">My_App</string>
+    <string name="ligar">Call</string>
+    <string name="sms">Send SMS</string>
+    <string name="mapa">See location on the map</string>
+    <string name="site">Access to site</string>
+    <string name="menu_titulo">Select The Action!!!</string>
+    <string name="formulario">Form</string>
+    <string name="type_mesage">Type Mesage</string>
+    <string name="sms_send">SMS</string>
+    <string name="enviar_sms">Send</string>
+</resources>
